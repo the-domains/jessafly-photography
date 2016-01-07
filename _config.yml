@@ -1,0 +1,28 @@
+name: Jessafly Photography
+favicon: null
+layout_spectrum: 0.9692940381355584
+typography_spectrum: 0.7735263216309249
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.687812049407512
+  lightness: 0.4796583172865212
+  saturation: 0.7407617901917547
+  rhythmicContrast: 0.9164768941700459
+purpose: []
