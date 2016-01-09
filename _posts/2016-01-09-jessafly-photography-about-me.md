@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: About Me
-datePublished: '2016-01-09T18:03:41.685Z'
-dateModified: '2016-01-09T18:03:18.986Z'
-title: Jessafly Photography // About Me
+datePublished: '2016-01-09T18:13:59.515Z'
+dateModified: '2016-01-09T18:08:33.058Z'
+title: Jessafly Photography // Invermere Photographer
 author: []
+sourcePath: _posts/2016-01-09-jessafly-photography-about-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-09-jessafly-photography-about-me.md
-published: true
 url: jessafly-photography-about-me/index.html
 _type: WebPage
 
