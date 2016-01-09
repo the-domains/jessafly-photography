@@ -1,6 +1,6 @@
 name: Jessafly Photography
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26444
 typography_spectrum: 0.73559
 title: 'Jessafly Photography | Invermere Lifestyle Photographer'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#8cd5e3'
     - '#000000'
     - '#6f6f6f'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.75
-  saturation: 0.375
-  rhythmicContrast: 0.9164768941700459
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
