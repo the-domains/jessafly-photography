@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: About Me
-datePublished: '2016-01-09T21:45:58.573Z'
-dateModified: '2016-01-09T21:45:56.490Z'
-title: 'Jessafly Photography | Invermere Lifestyle Photographer'
+description: 'Jessafly Photography | About Me'
+datePublished: '2016-01-09T21:49:30.253Z'
+dateModified: '2016-01-09T21:49:27.253Z'
+title: About Me
 author: []
 sourcePath: _posts/2016-01-09-jessafly-photography-about-me.md
 published: true
