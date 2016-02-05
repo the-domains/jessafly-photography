@@ -1,4 +1,4 @@
-name: Jessafly Photography
+name: 'Jessafly | Photography | Art'
 favicon: null
 layout_spectrum: 0.0027
 typography_spectrum: 0.73559
@@ -22,8 +22,8 @@ color:
     - '#8cd5e3'
     - '#000000'
     - '#6f6f6f'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
