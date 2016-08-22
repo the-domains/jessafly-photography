@@ -1,8 +1,19 @@
-name: 'Jessafly | Photography | Art'
+layout_spectrum: 0.27245483617298305
+typography_spectrum: 0.22150815930217505
+color:
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  brandStrength: 0.2587786866351962
+  lightness: 0.8393783292267472
+  saturation: 0.9254082085099071
+  rhythmicContrast: 0.18895287439227104
+name: Jessafly | Photography | Art
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.73559
-title: 'Jessafly | Photography | Art'
+title: Jessafly | Photography | Art
 cta:
   domain: null
   bucket: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#662d91'
-    - '#8cd5e3'
-    - '#000000'
-    - '#6f6f6f'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
 purpose: []
